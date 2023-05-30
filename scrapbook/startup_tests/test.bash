@@ -1,0 +1,3 @@
+gnome-terminal --title="Multi Listener (Display)" -e "bash -c 'cd ~/ros2_ws/; source /opt/ros/galactic/setup.bash; source /opt/ros/dashing/setup.bash; . install/setup.bash; ros2 run py_cameratest multi_listener'"
+
+gnome-terminal --title="Webcame Publisher Node" -e "bash -c 'cd ~/ros2_ws/; source /opt/ros/galactic/setup.bash; source /opt/ros/dashing/setup.bash; . install/setup.bash; ros2 run py_cameratest talker'"
