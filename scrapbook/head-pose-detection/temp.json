@@ -1,0 +1,13 @@
+{
+    "timestamp": 1685713967.6011508,
+    "source": "realsense_publisher",
+    "image": {
+        "dimensions": [
+            480,
+            640,
+            3
+        ],
+        "encoding": "b64_jpg",
+        "data": "/9j/4AAQ...     ...7n//2Q=="
+    }
+}

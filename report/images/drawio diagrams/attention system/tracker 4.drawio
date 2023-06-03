@@ -1,0 +1,35 @@
+<mxfile host="app.diagrams.net" modified="2023-06-02T15:14:12.661Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="qmHfJ2URYJGgo2LsRTJ0" version="21.3.7" type="device">
+  <diagram name="Page-1" id="aXk8GVEg9t4zyCOfKGiH">
+    <mxGraphModel dx="1195" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-26" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=none;strokeColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-8" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="40" y="380" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-20" value="&lt;pre&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 47px;&quot;&gt;t = 4&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="285" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-21" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Person 2&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrmSEk_4bjy6epXLlfkk-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=5;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NrmSEk_4bjy6epXLlfkk-8" target="NrmSEk_4bjy6epXLlfkk-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="140" as="sourcePoint" />
+            <mxPoint x="190" y="460" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ag3PKOkq269BHDciXX0M-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=solid;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

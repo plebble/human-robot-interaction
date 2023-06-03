@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-06-02T18:06:17.421Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="RovJduJkHTXL3t33uiLt" version="21.3.7" type="device">
+  <diagram name="Page-1" id="_2xuHjJ9qUvxVlje_Iar">
+    <mxGraphModel dx="683" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="240" pageHeight="240" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RCAuxhkoTANxclYSdcpx-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RCAuxhkoTANxclYSdcpx-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeColor=#b85450;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RCAuxhkoTANxclYSdcpx-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RCAuxhkoTANxclYSdcpx-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="230" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
